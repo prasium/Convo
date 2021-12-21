@@ -1,0 +1,6 @@
+package com.prasium.convo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

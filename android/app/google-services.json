@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675578005101",
+    "project_id": "sup-chat-755b8",
+    "storage_bucket": "sup-chat-755b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675578005101:android:0ad89412f15ed58e19e164",
+        "android_client_info": {
+          "package_name": "com.prasium.convo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675578005101-82r10776u1s9ubek2519cgh4btggu004.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3m87uJ9rpG80o9JBaUf7t99pr_guFtxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675578005101-82r10776u1s9ubek2519cgh4btggu004.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
