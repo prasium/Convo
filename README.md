@@ -1,6 +1,8 @@
 # convo
-
 A chat messaging app
+
+## Sample Screenshot
+![Screenshot_1640094080](https://user-images.githubusercontent.com/47386692/146939710-01e3c8c3-0f19-466f-b138-301f360c1728.png)
 
 ## Getting Started
 
