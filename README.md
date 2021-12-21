@@ -2,7 +2,7 @@
 A chat messaging app
 
 ## Sample Screenshot
-<img src="https://user-images.githubusercontent.com/47386692/146939710-01e3c8c3-0f19-466f-b138-301f360c1728.png" height="600" width="400">
+<img src="https://user-images.githubusercontent.com/47386692/146939710-01e3c8c3-0f19-466f-b138-301f360c1728.png" height="720" width="480">
 
 ## Getting Started
 
